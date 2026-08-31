@@ -12,3 +12,5 @@ management:
     web:
       exposure:
         inclue: "*"
+
+message: "This is Rest message from config server"
